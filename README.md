@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 Quant Projects:</h2>
 
+- <b>Cahart Four Factor Model (Python)</b>
+  - [Cahart Four Factor Model](https://github.com/bahu1610/CaharatRiskModel) <b><i>(Monthly Momentum Factor Model)</b></i>
 - <b>Value at Risk (Excel)</b>
   - [Variance Covariance, Historical Simulation & Monte Carlo for computing Value at Risk](https://github.com/bahu1610/ValueAtRisk)
-- <b>Risk Factor Analysis (Python)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>SQL</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>📝 Research Writing: </h2>
 
