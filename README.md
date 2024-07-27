@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samarth Bahukhandi! <br/>Aspiring Data Science & Quantitative Researcher/Analyst, Masters' Student, Sports Enthusiast!</h1>
+<h1>Hi, I'm Samarth Bahukhandi! <br/>Aspiring Quantitative Researcher and Trader, Masters' Student, Sports Enthusiast!</h1>
 
 <h2>👨‍💻 Quant Projects:</h2>
 
