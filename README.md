@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Quant Projects:</h2>
 
+- <b> Liquidity Analysis of Digital Asset (Python)</b>
+  - [XRP Liquidity Analysis](https://github.com/bahu1610/Liquidity_Profile/tree/main) 
 - <b>Cahart Four Factor Model (Python)</b>
   - [Cahart Four Factor Model](https://github.com/bahu1610/CaharatRiskModel) <b><i>(Monthly Momentum Factor Model)</b></i>
 - <b>Value at Risk (Excel)</b>
@@ -32,17 +34,3 @@
 [instagram]: https://www.instagram.com/bahu__16/?hl=en
 [linkedin]: https://www.linkedin.com/in/samarth-bahukhandi-7a2aa5184/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
