@@ -8,6 +8,9 @@
   - [Cahart Four Factor Model](https://github.com/bahu1610/CaharatRiskModel) <b><i>(Monthly Momentum Factor Model)</b></i>
 - <b>Value at Risk (Excel)</b>
   - [Variance Covariance, Historical Simulation & Monte Carlo for computing Value at Risk](https://github.com/bahu1610/ValueAtRisk)
+ 
+  - <b>Black Scholes Option Pricing Model (Python)</b>
+  - [Option Pricing Calculator and Greeks Graph](https://github.com/bahu1610/BSM1)
 
 <h2>📝 Research Writing: </h2>
 
