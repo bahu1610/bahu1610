@@ -12,7 +12,11 @@
 - <b>Black Scholes Option Pricing Model (Python)</b>
   - [Option Pricing Calculator and Greeks Graph](https://github.com/bahu1610/BSM1)
  
-- ML in Python & Portfolio Optimization [W.I.P]
+- Portfolio Optimization Model [W.I.P]
+  - [Portfolio Optimization Technique](https://github.com/bahu1610/Portfolio_Optimization/tree/main)
+
+- ML in Python [W.I.P]
+  - [EDA and Regressions](https://github.com/bahu1610/ML-in-Python)
 
 <h2>📝 Research Writing: </h2>
 
