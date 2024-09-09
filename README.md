@@ -11,6 +11,8 @@
  
 - <b>Black Scholes Option Pricing Model (Python)</b>
   - [Option Pricing Calculator and Greeks Graph](https://github.com/bahu1610/BSM1)
+ 
+- ML in Python & Portfolio Optimization [W.I.P]
 
 <h2>📝 Research Writing: </h2>
 
