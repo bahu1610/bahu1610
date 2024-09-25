@@ -1,6 +1,6 @@
 <h1>Hi, I'm Samarth Bahukhandi! <br/>Masters' Student, Finance Enthusiast & Sports Head!</h1>
 
-<h2>👨‍💻 Quant Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b> Fund Benchmarking Analysis (Python & Excel)</b>
   - [Fund 1 vs Benchmark Fund](https://github.com/bahu1610/Fund_Analysis)
