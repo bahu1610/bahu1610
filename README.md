@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Quant Projects:</h2>
 
+- <b> Fund Benchmarking Analysis (Python & Excel)</b>
+  - [Fund 1 vs Benchmark Fund](https://github.com/bahu1610/Fund_Analysis)
 - <b> Liquidity Analysis of Digital Asset (Python)</b>
   - [XRP Liquidity Analysis](https://github.com/bahu1610/Liquidity_Profile/tree/main) 
 - <b>Cahart Four Factor Model (Python)</b>
