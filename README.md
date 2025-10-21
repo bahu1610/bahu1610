@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samarth Bahukhandi! <br/>Masters' Student, Finance Enthusiast & Sports Head!</h1>
+<h1>Hi, I'm Samarth Bahukhandi! <br/>Masters' Student in Financial Engineering at NUS!</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
